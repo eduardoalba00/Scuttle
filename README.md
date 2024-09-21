@@ -27,7 +27,7 @@ Scuttle is a multi-service project that helps League of Legends players track an
 1. **[scuttle-bot](https://github.com/Eduardo-Projects/scuttle-bot)**: A Discord bot for adding summoners, fetching player statistics, and delivering reports.
 2. **[scuttle-service](https://github.com/Eduardo-Projects/scuttle-service)**: A backend service for fetching and caching match data from the Riot Games API.
 3. **[scuttle-web](https://github.com/Eduardo-Projects/scuttle-web)**: A website that showcases the bot and provides resources on how to add and use it in Discord servers.
-4. **[scuttle-api](https://github.com/Eduardo-Projects/scuttle-api)**: A public API to serve data to the web and Discord bot.
+4. **[scuttle-api](https://github.com/Eduardo-Projects/scuttle-api)**: A public API to serve data to the web.
 
 ---
 
@@ -91,7 +91,6 @@ Scuttle-api is a public API that serves data the web interface.
 
 1. [Add Scuttle-Bot](https://discord.com/oauth2/authorize?client_id=1222960533523796089&permissions=17600776293376&scope=bot) to your Discord server.
 2. Visit the [Scuttle website](https://www.scuttle.gg) to learn more about how to use the bot and explore its features.
-3. Use scuttle-api to access match data via programmatic endpoints.
 
 ## License
 
@@ -99,5 +98,5 @@ MIT
 
 ---
 
-> GitHub [@eduardoalba00](https://github.com/eduardoalba00) &nbsp;&middot;&nbsp; Website [Scuttle.gg](https://www.scuttle.gg) &nbsp;&middot;&nbsp; Twitter [@eduardoalba00](https://twitter.com/eduardoalba00)
+> GitHub [@eduardoalba00](https://github.com/eduardoalba00) &nbsp;&middot;&nbsp; Website [Scuttle.gg](https://www.scuttle.gg) 
 
