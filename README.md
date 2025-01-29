@@ -6,6 +6,7 @@
   <br>
 </h1>
 
+<h3 align="center"><a href="https://www.scuttle.gg">scuttle.gg</a></h3>
 <h4 align="center">A League of Legends analytics platform powered by a Discord bot, with backend services for fetching and caching match data, a frontend showcase website, and a public API.</h4>
 
 <p align="center">
